@@ -1,0 +1,5 @@
+{
+    "name": "A green door",
+    "Object" : {"Val" : 3.14, "nam" : "piyush", "ObjectArray" : [null, true, false, "jadoo"]},
+    "Array" : [3.14, "gupta"]
+}
